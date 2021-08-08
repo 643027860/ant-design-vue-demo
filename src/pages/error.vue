@@ -1,6 +1,6 @@
 <template>
   <div class="error">
-      error
+      i am error
   </div>
 </template>
 
